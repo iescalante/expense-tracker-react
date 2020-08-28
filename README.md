@@ -10,5 +10,5 @@ Please see each folder and their respective files in order to understand the cod
 
 Thank you and sorry for the confusion!
 
-I would like to thank Traversy Media for the amazing resources that is put on the internet and made available
-to everyone to learn by creating these projects. Thank you!
+I would like to thank Traversy Media for the amazing resources put on the internet and made available
+to everyone in order to learn by creating these projects. Thank you!
